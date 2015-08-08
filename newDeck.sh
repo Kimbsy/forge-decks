@@ -18,7 +18,8 @@ echo "[metadata]
 Name=$1
 [Main]
 
-[Sideboard]" > "$DIR$DECK"
+[Sideboard]
+" > "$DIR$DECK"
 
 echo "New deck '$DIR$DECK' created"
 
