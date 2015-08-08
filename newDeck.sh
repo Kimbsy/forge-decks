@@ -24,4 +24,4 @@ Name=$1
 echo "New deck file '$DIR$DECK.dck' created"
 
 # open new deck file in sublime
-subl "$DIR$DECK"
+subl "$DIR$DECK.dck"
