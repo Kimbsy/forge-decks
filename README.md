@@ -3,5 +3,5 @@ Deck files for MTG forge.
 
 Create new deck with:
 ```bash
-./newDeck.sh deckName.dck [directoryName]
+./newDeck.sh deckName [directoryName]
 ```

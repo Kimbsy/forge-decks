@@ -2,7 +2,7 @@
 if [ -z $1 ]; then
   echo "Error: No deck name supplied"
   echo "Usage:"
-  echo "    ./newDeck.sh deckName.dck [directoryName]"
+  echo "    ./newDeck.sh deckName [directoryName]"
   exit;
 fi
 DECK=$1
@@ -19,9 +19,9 @@ Name=$1
 [Main]
 
 [Sideboard]
-" > "$DIR$DECK"
+" > "$DIR$DECK.dck"
 
-echo "New deck '$DIR$DECK' created"
+echo "New deck file '$DIR$DECK.dck' created"
 
 # open new deck file in sublime
 subl "$DIR$DECK"
