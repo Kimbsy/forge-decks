@@ -14,9 +14,9 @@ else
 fi
 
 # copy template deck into specified directory as new deck
-cp deckTemplate.dck $DIR$DECK
+cp deckTemplate.dck "$DIR$DECK"
 
 echo "New deck '$DIR$DECK' created"
 
 # open new deck file in sublime
-subl $DIR$DECK
+subl "$DIR$DECK"
