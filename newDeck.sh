@@ -13,8 +13,14 @@ else
   DIR=$2
 fi
 
-# copy template deck into specified directory as new deck
-cp deckTemplate.dck "$DIR$DECK"
+# create new deck
+echo "[metadata]
+Name=$1
+[Main]
+
+[Sideboard]
+
+" > "$DIR$DECK"
 
 echo "New deck '$DIR$DECK' created"
 
