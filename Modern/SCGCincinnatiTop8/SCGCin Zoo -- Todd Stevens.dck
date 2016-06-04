@@ -1,7 +1,6 @@
 [metadata]
 Name=SCGCin Zoo -- Todd Stevens
 [Main]
-22 LANDS
 3 Arid Mesa
 2 Forest
 1 Ghost Quarter
@@ -14,7 +13,6 @@ Name=SCGCin Zoo -- Todd Stevens
 1 Temple Garden
 4 Windswept Heath
 4 Wooded Foothills
-26 CREATURES
 4 Knight of the Reliquary
 3 Loxodon Smiter
 4 Noble Hierarch
@@ -23,12 +21,11 @@ Name=SCGCin Zoo -- Todd Stevens
 4 Tarmogoyf
 3 Voice of Resurgence
 4 Wild Nacatl
-12 INSTANTS and SORC.
 3 Collected Company
 1 Dromoka's Command
 4 Lightning Bolt
 4 Path to Exile
-SIDEBOARD
+[Sideboard]
 1 Ancient Grudge
 2 Blood Moon
 2 Domri Rade

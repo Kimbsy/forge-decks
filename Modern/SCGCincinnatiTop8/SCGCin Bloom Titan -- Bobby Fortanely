@@ -1,7 +1,6 @@
 [metadata]
 Name=SCGCin Bloom Titan -- Bobby Fortanely
 [Main]
-7 LANDS
 1 Boros Garrison
 1 Cavern of Souls
 1 Forest
@@ -19,10 +18,8 @@ Name=SCGCin Bloom Titan -- Bobby Fortanely
 1 Temple of Mystery
 3 Tolaria West
 1 Vesuva
-6 CREATURES
 2 Azusa, Lost but Seeking
 4 Primeval Titan
-21 INSTANTS and SORC.
 3 Ancient Stirrings
 2 Pact of Negation
 4 Serum Visions
@@ -30,10 +27,9 @@ Name=SCGCin Bloom Titan -- Bobby Fortanely
 3 Sleight of Hand
 4 Summer Bloom
 4 Summoner's Pact
-6 OTHER SPELLS
 4 Amulet of Vigor
 2 Hive Mind
-SIDEBOARD
+[Sideboard]
 1 Bojuka Bog
 1 Engineered Explosives
 1 Ghost Quarter

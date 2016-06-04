@@ -1,7 +1,6 @@
 [metadata]
 Name=SCGCin Chord Control -- Jeff Hoogland
 [Main]
-23 LANDS
 1 Fire-Lit Thicket
 2 Forest
 1 Ghost Quarter
@@ -16,7 +15,6 @@ Name=SCGCin Chord Control -- Jeff Hoogland
 1 Temple Garden
 4 Windswept Heath
 4 Wooded Foothills
-29 CREATURES
 4 Birds of Paradise
 2 Courser of Kruphix
 2 Eternal Witness
@@ -32,10 +30,9 @@ Name=SCGCin Chord Control -- Jeff Hoogland
 4 Voice of Resurgence
 3 Wall of Omens
 1 Wall of Roots
-8 INSTANTS and SORC.
 4 Chord of Calling
 4 Path to Exile
-SIDEBOARD
+[Sideboard]
 1 Eidolon of Rhetoric
 1 Engineered Explosives
 1 Fulminator Mage
